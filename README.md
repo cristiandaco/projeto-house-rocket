@@ -1,6 +1,6 @@
 - PROJETO HOUSE ROCKET
 
-link da solução em produção: https://projeto-hr.herokuapp.com/
+link da solução em produção: https://house-rocket-projeto.herokuapp.com/
 
 - Problema de negócio: 
 1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço ?
