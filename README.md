@@ -13,7 +13,7 @@ link da solução em produção: https://house-rocket-projeto.herokuapp.com/
 2. O preço médio de venda dos imóveis possui sazonalidade.
 3. A House Rocket trabalha apenas com imóveis em boas condições.
 
-## As 5 principais hipóteses dos dados:
+## As 5 principais hipóteses (geração de insights):
 
 1. Imóveis que possuem vista para água, são 30% mais caros, na média.
 R: Verdadeira. Na verdade, imóveis com vista para água são três vezes mais caros, na média, do que imóveis sem vista para água.
