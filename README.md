@@ -2,6 +2,8 @@
 
 link da solução em produção: https://house-rocket-projeto.herokuapp.com/
 
+![house_rocket_image](https://user-images.githubusercontent.com/81040797/143085318-13af98c3-5e0e-44e2-a8c1-e2f0fcb619fc.jpg)
+
 ## Problema de negócio: 
 1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço ?
 2. Uma vez a casa comprada, qual o melhor momento para vendê-la e por qual preço ?
@@ -14,7 +16,7 @@ link da solução em produção: https://house-rocket-projeto.herokuapp.com/
 ## As 5 principais hipóteses dos dados:
 
 1. Imóveis que possuem vista para água, são 30% mais caros, na média.
-R: Verdadeiro. Na verdade, imóveis com vista para água são três vezes mais caros, na média, do que imóveis sem vista para água.
+R: Verdadeira. Na verdade, imóveis com vista para água são três vezes mais caros, na média, do que imóveis sem vista para água.
 
 2. Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.
 R: Falsa. Imóveis com data de construção menor do que 1955, são 1,75% mais baratos.
@@ -29,6 +31,11 @@ R: Falsa. O crescimento do preço médio de venda dos imóveis, YoY, é de apena
 5. Imóveis reformados com 3 banheiros são, em média, 30% mais caros do que imóveis não reformados com 3 banheiros.
 R: Verdadeira. Imóveis reformados, com 3 banheiros são, em média, 39,39% mais caros do que imóveis não reformados, com 3 banheiros.
 
+6. Imóveis vendidos no verão são os mais caros.
+R: Falsa. Imóveis vendidos na primavera são os mais caros. Sendo 7,08% mais caros do que imóveis vendidos no inverno.
+
+7. Imóveis construídos nos ano de 2000 a 2010 são 20% mais caros do que imóveis construídos nos anos de 1980 a 1990.
+R: Falsa. Na verdade, imóveis contruídos nos anos 2000 são 7,06% mais caros do que imóveis dos anos 1980. 
 
 ## Planejamento da solução:
 
@@ -41,7 +48,7 @@ O problema será divido em quatro etapas:
 
 ## Resultados financeiros para o negócio. Quanto a empresa esperar lucrar com a solução?
 
-R: Das mais de dez mil recomendações de compra, a expectativa é que a empresa lucre, em média, U$ 91.000,00 por imóvel vendido, o que pode variar, dependendo do localização do imóvel. 
+R: Das mais de dez mil recomendações de compra, a expectativa é que a empresa lucre, em média, U$ 152.630,01 por imóvel vendido, o que pode variar, dependendo do localização do imóvel. 
 
 ## Conlusão:
 
