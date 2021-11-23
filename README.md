@@ -2,6 +2,8 @@
 
 link da solução em produção: https://house-rocket-projeto.herokuapp.com/
 
+![house_rocket_image](https://user-images.githubusercontent.com/81040797/143085318-13af98c3-5e0e-44e2-a8c1-e2f0fcb619fc.jpg)
+
 ## Problema de negócio: 
 1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço ?
 2. Uma vez a casa comprada, qual o melhor momento para vendê-la e por qual preço ?
@@ -46,7 +48,7 @@ O problema será divido em quatro etapas:
 
 ## Resultados financeiros para o negócio. Quanto a empresa esperar lucrar com a solução?
 
-R: Das mais de dez mil recomendações de compra, a expectativa é que a empresa lucre, em média, U$ 91.000,00 por imóvel vendido, o que pode variar, dependendo do localização do imóvel. 
+R: Das mais de dez mil recomendações de compra, a expectativa é que a empresa lucre, em média, U$ 152.630,01 por imóvel vendido, o que pode variar, dependendo do localização do imóvel. 
 
 ## Conlusão:
 
