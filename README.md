@@ -14,7 +14,7 @@ link da solução em produção: https://house-rocket-projeto.herokuapp.com/
 ## As 5 principais hipóteses dos dados:
 
 1. Imóveis que possuem vista para água, são 30% mais caros, na média.
-R: Verdadeiro. Na verdade, imóveis com vista para água são três vezes mais caros, na média, do que imóveis sem vista para água.
+R: Verdadeira. Na verdade, imóveis com vista para água são três vezes mais caros, na média, do que imóveis sem vista para água.
 
 2. Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.
 R: Falsa. Imóveis com data de construção menor do que 1955, são 1,75% mais baratos.
@@ -29,6 +29,11 @@ R: Falsa. O crescimento do preço médio de venda dos imóveis, YoY, é de apena
 5. Imóveis reformados com 3 banheiros são, em média, 30% mais caros do que imóveis não reformados com 3 banheiros.
 R: Verdadeira. Imóveis reformados, com 3 banheiros são, em média, 39,39% mais caros do que imóveis não reformados, com 3 banheiros.
 
+6. Imóveis vendidos no verão são os mais caros.
+R: Falsa. Imóveis vendidos na primavera são os mais caros. Sendo 7,08% mais caros do que imóveis vendidos no inverno.
+
+7. Imóveis construídos nos ano de 2000 a 2010 são 20% mais caros do que imóveis construídos nos anos de 1980 a 1990.
+R: Falsa. Na verdade, imóveis contruídos nos anos 2000 são 7,06% mais caros do que imóveis dos anos 1980. 
 
 ## Planejamento da solução:
 
