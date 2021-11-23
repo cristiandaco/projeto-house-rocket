@@ -5,6 +5,7 @@ link da solução em produção: https://house-rocket-projeto.herokuapp.com/
 ![house_rocket_image](https://user-images.githubusercontent.com/81040797/143085318-13af98c3-5e0e-44e2-a8c1-e2f0fcb619fc.jpg)
 
 ## Problema de negócio: 
+A House Rocket é uma empresa americana, sediada em Seattle, Washington. A empresa compra e vende imóveis, e para efetuar duas aquisições e valores de venda dos imóveis em dados. Seguindo essas premissas o CEO da House Rocket apresentou as seguintes requisições:
 1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço ?
 2. Uma vez a casa comprada, qual o melhor momento para vendê-la e por qual preço ?
 
