@@ -7,7 +7,7 @@ link da solução em produção: https://house-rocket-projeto.herokuapp.com/
 2. Uma vez a casa comprada, qual o melhor momento para vendê-la e por qual preço ?
 
 ## Premissas assumidas:
-1. Os preço médio de venda dos imóveis é de U$ 540.000,00.
+1. Os preço médio de venda dos imóveis é em Seattle é de U$ 350.000,00.
 2. O preço médio de venda dos imóveis possui sazonalidade.
 3. A House Rocket trabalha apenas com imóveis em boas condições.
 
