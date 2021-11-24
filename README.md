@@ -63,7 +63,7 @@ Determiandos parâmetros foram assumidos para definir quais imóveis comprar e p
 
 2) Uma vez a casa comprada, qual o melhor momento para vendê-la e por qual preço ?
 
-Uma das premissas assumidas, manifesta que os preço médio dos imóveis é sazonal. Conforme o ano caminha em direção aos meses mais quentes, os imóveis são vendidos por um preço médio maior do que em meses mais frios. Portanto, os imóveis foram separados em duas temporadas, 'summer/spring' e 'fall/winter', e em média, o preço dos imóveis é 5,27% mais alto na temporada 'summer/spring'. Com base nisso, a sugestão é que os imóveis sejam ofertados por um preço 10% acima do preço de compra nas temporadas de frias e 30% nas temporadas de calor.
+Uma das premissas assumidas, manifesta que o preço médio de venda dos imóveis é sazonal. Conforme o ano caminha em direção aos meses mais quentes, os imóveis são vendidos por um preço médio maior do que em meses mais frios. Portanto, os imóveis foram separados por estações, e em média, o preço dos imóveis é 5,27% mais alto nas temporadas summer/spring do que nas temporadas fall/winter. Com base nisso, a sugestão é que os imóveis sejam ofertados por um preço 10% acima do preço de compra nas temporadas frias e 30% nas temporadas de calor.
 
 
 
